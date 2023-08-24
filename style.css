@@ -131,7 +131,14 @@ body h1 {
     height: auto;
     border-radius: 10%;
 }
-
+.logo img {
+    position: absolute;
+    height: auto;
+    width: 100px;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
 /* Estilos del contenido de jugadores*/
 .jugadores {
     display: flex;
